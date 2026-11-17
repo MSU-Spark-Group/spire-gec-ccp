@@ -1,0 +1,9 @@
+._*
+.DS_Store
+runs/
+runs_*/
+spire_prediction.png
+.venv/
+venv/
+__pycache__/
+*.pyc

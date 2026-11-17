@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this, please cite the software."
+type: software
+title: "SPIRE GEC CCP"
+authors:
+  - family-names: "Lin"
+    given-names: "Wencheng"
+repository-code: "https://github.com/MSU-Spark-Group/spire-gec-ccp"
+license: MIT
